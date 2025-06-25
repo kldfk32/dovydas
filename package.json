@@ -16,5 +16,10 @@
   },
   "devDependencies": {
     "vite": "^5.2.0"
+    
   }
+  "engines": {
+  "node": "22.16.0",
+  "npm": ">=10.8.2"
+}
 }
